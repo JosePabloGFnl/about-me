@@ -24,7 +24,7 @@ const imageAltText = "wet leaves background";
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I'm a UI/UX student studying at Barnett Technical University. I enjoy creating unique and simplistic user interfaces in creative ways.";
+  "Software Engineer from the Autonomous University of Nuevo Leon (UANL) with a focus on data. Currently working as a data analyst in Schneider Electric.";
 
 /**
  * List of some of skills or technologies you work on, are learning,
@@ -45,7 +45,7 @@ const skillsList = [
  * about you on a professional level.
  */
 const detailOrQuote =
-  "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my UI/UX experience I continually look for new and better ways to make tech accessible by all.";
+  "I am passionate on data science and other realted topics. I am a person who likes to learn new things and I am always looking for new challenges.";
 
 const About = () => {
   return (
